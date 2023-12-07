@@ -1,1 +1,1 @@
-# embedded_systems
+# Embedded Systems Project
