@@ -89,4 +89,5 @@ Similarly in order to read the serial data from DHT11 sensor we will use the DHT
 If your displays shows nothing you can check adjusting the contrast potentiometer at the back of the I2C module. I tried varying my room temperature using an Air conditioner and found the sensor value to also vary accordingly. The AC also has an option to measure room temperature and as you can see in below image my remote displays the room temperature to be 27°C and our sensors also displays 27.3°C on the LCD which is pretty much close.
 
 ![image](https://github.com/jaswanthgodavathi/embedded_systems/assets/92353360/b0f71bc1-1cc7-44c4-970d-fd90df522d7d)
+The code files would be added soon. 
 
